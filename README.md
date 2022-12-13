@@ -6,8 +6,8 @@ Neo4J installation Create a new account with default username neo4j and with the
 
 Seeding Neo4J Database Run the 2 cypher scripts here in sequence
 
-kg_food_db.cypher
+food_db.cypher
 
-kg_food_complementary.cypher
+food_complementary.cypher
 
 query.cypher
